@@ -1,6 +1,6 @@
 # 🌿 E-Plant Shop – Paradise Nursery
 
-** [Ver la aplicación desplegada aquí](https://s3basj.github.io/final-react-e-plant-shop-ibm/)**
+**[Ver la aplicación desplegada aquí](https://s3basj.github.io/final-react-e-plant-shop-ibm/)**
 
 ---
 

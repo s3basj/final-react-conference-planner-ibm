@@ -48,6 +48,11 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.product-grid h1 {
+  margin-top: 20px;
+  margin-left: 155px;
+}
 .product-list {
   display: flex;
   flex-wrap: wrap;

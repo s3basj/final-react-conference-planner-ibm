@@ -41,10 +41,3 @@ El proyecto se desarrolló como **proyecto final del curso de React** impartido 
 - **GitHub Pages** para despliegue
 
 ---
-
-## Instalación y ejecución local
-
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/s3basj/final-react-e-plant-shop-ibm.git
-   ```

@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/final-react-conference-planner-ibm/",
+  base: "/final-react-e-plant-shop-ibm/",
   plugins: [react()],
 });

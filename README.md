@@ -1,10 +1,10 @@
 # 🌿 E-Plant Shop – Paradise Nursery
 
-**🔗 [Ver la aplicación desplegada aquí](https://s3basj.github.io/final-react-e-plant-shop-ibm/)**
+** [Ver la aplicación desplegada aquí](https://s3basj.github.io/final-react-e-plant-shop-ibm/)**
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 **E-Plant Shop – Paradise Nursery** es una aplicación de e-commerce desarrollada en **React** con gestión de estado mediante **Redux Toolkit**, diseñada para ofrecer una experiencia de compra de plantas de interior fácil, visual y dinámica.
 
@@ -12,7 +12,7 @@ El proyecto se desarrolló como **proyecto final del curso de React** impartido 
 
 ---
 
-## ✨ Características principales
+## Características principales
 
 - **Página de inicio** con imagen de fondo, slogan y botón de acceso directo al catálogo.
 - **Catálogo de productos** con:
@@ -31,7 +31,7 @@ El proyecto se desarrolló como **proyecto final del curso de React** impartido 
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **React 18**
 - **Redux Toolkit**
@@ -42,7 +42,7 @@ El proyecto se desarrolló como **proyecto final del curso de React** impartido 
 
 ---
 
-## 📦 Instalación y ejecución local
+## Instalación y ejecución local
 
 1. Clonar el repositorio:
    ```bash
